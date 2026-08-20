@@ -198,32 +198,6 @@ status: "Building 🚀"
 
 ---
 
-## 🔥 Currently Building
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                  CURRENTLY BUILDING                  │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  🤖 AI-powered applications                         │
-│                                                      │
-│  🧠 RAG & LLM based systems                         │
-│                                                      │
-│  👁️ Computer Vision projects                        │
-│                                                      │
-│  🌐 Full-stack applications                          │
-│                                                      │
-│  📊 Data-driven solutions                            │
-│                                                      │
-│  💻 DSA & problem solving                            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 ## 💻 Coding Journey
