@@ -148,11 +148,6 @@ status: "Building 🚀"
 <div align="center">
 
 ### 🤖 AI Hand Gesture Virtual Mouse
-
-<a href="https://github.com/PraveenSivakumar12/AI-Hand-Gesture-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenSivakumar12&repo=AI-Hand-Gesture-Website&theme=tokyonight&hide_border=true"/>
-</a>
-
 **Computer Vision + Gesture Recognition + Web Interface**
 
 > An AI-powered system that uses hand tracking and gesture recognition to control computer interactions.
@@ -162,10 +157,6 @@ status: "Building 🚀"
 ---
 
 ### 🧠 Personal AI Assistant
-
-<a href="https://github.com/PraveenSivakumar12/Personal-Assistant-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenSivakumar12&repo=Personal-Assistant-&theme=tokyonight&hide_border=true"/>
-</a>
 
 **Voice + Automation + AI**
 
@@ -177,10 +168,6 @@ status: "Building 🚀"
 
 ### 💧 Water Quality Checker
 
-<a href="https://github.com/PraveenSivakumar12/Water-Quality-Checker-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenSivakumar12&repo=Water-Quality-Checker-&theme=tokyonight&hide_border=true"/>
-</a>
-
 **Data Analysis + Prediction**
 
 > Interactive application for analysing water-quality parameters and generating useful insights.
@@ -190,10 +177,6 @@ status: "Building 🚀"
 ---
 
 ### 📊 COVID-19 Data Analysis
-
-<a href="https://github.com/PraveenSivakumar12/Covid-19-data-analysis-using-EDA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenSivakumar12&repo=Covid-19-data-analysis-using-EDA&theme=tokyonight&hide_border=true"/>
-</a>
 
 **Exploratory Data Analysis**
 
@@ -205,10 +188,6 @@ status: "Building 🚀"
 
 ### 📡 5G Network Slicing Simulation
 
-<a href="https://github.com/PraveenSivakumar12/5G-Network-Slicing-Simulation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenSivakumar12&repo=5G-Network-Slicing-Simulation&theme=tokyonight&hide_border=true"/>
-</a>
-
 **Networking + Simulation**
 
 > Simulates network slicing concepts and resource allocation behaviour in 5G networks.
@@ -216,48 +195,6 @@ status: "Building 🚀"
 `Python` `Networking` `5G` `Simulation`
 
 </div>
-
----
-
-## 🧩 More Projects
-
-<table align="center">
-
-<tr>
-<td align="center" width="50%">
-
-### 🧠 LeetCode Solutions
-
-<a href="https://github.com/PraveenSivakumar12/solutions_lc">
-<img src="https://img.shields.io/badge/View%20Solutions-181717?style=for-the-badge&logo=github"/>
-</a>
-
-Java solutions covering:
-
-`Arrays` · `Strings` · `HashMap` · `Sliding Window` · `Binary Search` · `DP`
-
-</td>
-
-<td align="center" width="50%">
-
-### 🔬 AI Experiments
-
-Exploring:
-
-`LLMs`
-
-`RAG`
-
-`Generative AI`
-
-`Computer Vision`
-
-`AI Agents`
-
-</td>
-</tr>
-
-</table>
 
 ---
 
