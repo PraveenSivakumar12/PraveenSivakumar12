@@ -211,16 +211,6 @@ status: "Building 🚀"
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PraveenSivakumar12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -256,49 +246,7 @@ status: "Building 🚀"
 
 ---
 
-## 🧪 Developer Terminal
-
-<div align="center">
-
-```bash
-$ whoami
-
-Praveen Sivakumar
-
-$ current_role
-
-AI & Data Science Student
-
-$ interests
-
-AI | ML | GenAI | RAG | Data | Full Stack
-
-$ languages
-
-Java | Python | JavaScript | TypeScript
-
-$ editor
-
-VS Code
-
-$ operating_mode
-
-BUILD → BREAK → DEBUG → LEARN → REPEAT
-
-$ status
-
-███████████████████████░ 90%
-
-$ next_goal
-
-Build something people actually use 🚀
-```
-
-</div>
-
----
-
-## 🧠 2026 Learning Roadmap
+## 🧠 Learning Roadmap
 
 <div align="center">
 
@@ -316,23 +264,6 @@ Build something people actually use 🚀
 </div>
 
 ---
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> **"Don't just learn technology. Build something with it."**
-
-<br>
-
-```text
-Learn → Build → Fail → Debug → Improve → Repeat
-```
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
