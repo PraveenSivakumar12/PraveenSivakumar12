@@ -201,15 +201,6 @@ status: "Building 🚀"
 ---
 
 ## 💻 Coding Journey
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PraveenSivakumar12&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=75AADB&text_color=CCD6F6&icon_color=75AADB&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenSivakumar12&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=75AADB&text_color=CCD6F6" height="180"/>
-
-</div>
-
 <br>
 
 <div align="center">
